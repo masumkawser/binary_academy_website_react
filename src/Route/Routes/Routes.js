@@ -21,7 +21,16 @@ export const routes =createBrowserRouter([
         {
             path:'/blog',
             element:<Blog></Blog>
-        }
+        },
+        {
+            path:'/blog',
+            element:<Blog></Blog>
+        },
+        {
+            path:'/blog',
+            element:<Blog></Blog>
+        },
+        
 
     ]
 }
